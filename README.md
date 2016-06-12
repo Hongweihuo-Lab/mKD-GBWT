@@ -6,9 +6,8 @@ The basis of mKD-GBWT is Geometric Burrows-Wheeler Transform. The biggest improv
 ## Install
 1. First you need install SAscan [1] and LCPscan [2].
 
-    [1] https://www.cs.helsinki.fi/group/pads/SAscan.html
-    
-    [2] https://www.cs.helsinki.fi/group/pads/LCPscan.html
+      [1] https://www.cs.helsinki.fi/group/pads/SAscan.html    
+      [2] https://www.cs.helsinki.fi/group/pads/LCPscan.html    
 
 2. Download mKD-GBWT index from https://github.com/Hongweihuo-Lab/mKD-GBWT.
 
