@@ -1,0 +1,348 @@
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+data-size: 296135874bytes = 282.42MB
+Build-SBT-time: 70.00s
+Build-KDT-time: 57.00s
+Number of All points: 148067936
+Max points number of every kd-tree: 3798162
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+test-data-size: 296135874 bytes = 282.42 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 2
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 1994059776 bytes = 1901.68 MB
+		sbt_size_in_bytes: 868904960 bytes = 828.65 MB
+		kdb_size_in_bytes: 1125154816 bytes = 1073.03 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 261.78 109.45 152.34
+		(all, sbt, kdt) max-I/Os per pattern-matching = 2630 1143 1488
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 4
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+data-size: 296135874bytes = 282.42MB
+Build-SBT-time: 35.00s
+Build-KDT-time: 31.00s
+Number of All points: 74033968
+Max points number of every kd-tree: 1899970
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+test-data-size: 296135874 bytes = 282.42 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 4
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 1141714944 bytes = 1088.82 MB
+		sbt_size_in_bytes: 434458624 bytes = 414.33 MB
+		kdb_size_in_bytes: 707256320 bytes = 674.49 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 380.25 79.51 300.74
+		(all, sbt, kdt) max-I/Os per pattern-matching = 3426 599 2831
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 6
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+data-size: 296135874bytes = 282.42MB
+Build-SBT-time: 23.00s
+Build-KDT-time: 19.00s
+Number of All points: 49355978
+Max points number of every kd-tree: 1265550
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+test-data-size: 296135874 bytes = 282.42 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 6
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 860114944 bytes = 820.27 MB
+		sbt_size_in_bytes: 289644544 bytes = 276.23 MB
+		kdb_size_in_bytes: 570470400 bytes = 544.04 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 473.71 74.41 399.29
+		(all, sbt, kdt) max-I/Os per pattern-matching = 4185 427 3758
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 8
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+data-size: 296135874bytes = 282.42MB
+Build-SBT-time: 17.00s
+Build-KDT-time: 15.00s
+Number of All points: 37016984
+Max points number of every kd-tree: 950654
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+test-data-size: 296135874 bytes = 282.42 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 8
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 723976192 bytes = 690.44 MB
+		sbt_size_in_bytes: 217235456 bytes = 207.17 MB
+		kdb_size_in_bytes: 506740736 bytes = 483.27 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 576.14 79.13 497.00
+		(all, sbt, kdt) max-I/Os per pattern-matching = 4952 348 4604
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+data-size: 296135874bytes = 282.42MB
+Build-SBT-time: 61.00s
+Build-KDT-time: 48.00s
+Number of All points: 148067936
+Max points number of every kd-tree: 3798162
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+test-data-size: 296135874 bytes = 282.42 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 2
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 1994059776 bytes = 1901.68 MB
+		sbt_size_in_bytes: 868904960 bytes = 828.65 MB
+		kdb_size_in_bytes: 1125154816 bytes = 1073.03 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 286.90 120.65 166.25
+		(all, sbt, kdt) max-I/Os per pattern-matching = 2630 1143 1488
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 4
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+data-size: 296135874bytes = 282.42MB
+Build-SBT-time: 30.00s
+Build-KDT-time: 25.00s
+Number of All points: 74033968
+Max points number of every kd-tree: 1899970
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+test-data-size: 296135874 bytes = 282.42 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 4
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 1141714944 bytes = 1088.82 MB
+		sbt_size_in_bytes: 434458624 bytes = 414.33 MB
+		kdb_size_in_bytes: 707256320 bytes = 674.49 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 410.16 84.93 325.23
+		(all, sbt, kdt) max-I/Os per pattern-matching = 3426 599 2831
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 6
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+data-size: 296135874bytes = 282.42MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 17.00s
+Number of All points: 49355978
+Max points number of every kd-tree: 1265550
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+test-data-size: 296135874 bytes = 282.42 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 6
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 860114944 bytes = 820.27 MB
+		sbt_size_in_bytes: 289644544 bytes = 276.23 MB
+		kdb_size_in_bytes: 570470400 bytes = 544.04 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 503.09 77.08 426.02
+		(all, sbt, kdt) max-I/Os per pattern-matching = 4185 427 3758
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 8
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+data-size: 296135874bytes = 282.42MB
+Build-SBT-time: 15.00s
+Build-KDT-time: 13.00s
+Number of All points: 37016984
+Max points number of every kd-tree: 950654
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+test-data-size: 296135874 bytes = 282.42 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 8
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 723976192 bytes = 690.44 MB
+		sbt_size_in_bytes: 217235456 bytes = 207.17 MB
+		kdb_size_in_bytes: 506740736 bytes = 483.27 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 602.93 80.68 522.25
+		(all, sbt, kdt) max-I/Os per pattern-matching = 4952 348 4604
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+data-size: 296135874bytes = 282.42MB
+Build-SBT-time: 60.00s
+Build-KDT-time: 61.00s
+Number of All points: 148067936
+Max points number of every kd-tree: 3798162
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+test-data-size: 296135874 bytes = 282.42 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 2
+test pattern len = 10
+the number of random test = 10000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 1994059776 bytes = 1901.68 MB
+		sbt_size_in_bytes: 868904960 bytes = 828.65 MB
+		kdb_size_in_bytes: 1125154816 bytes = 1073.03 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 280.64 117.90 162.74
+		(all, sbt, kdt) max-I/Os per pattern-matching = 2630 1143 1488
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 4
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+data-size: 296135874bytes = 282.42MB
+Build-SBT-time: 30.00s
+Build-KDT-time: 31.00s
+Number of All points: 74033968
+Max points number of every kd-tree: 1899970
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+test-data-size: 296135874 bytes = 282.42 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 4
+test pattern len = 10
+the number of random test = 10000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 1141714944 bytes = 1088.82 MB
+		sbt_size_in_bytes: 434458624 bytes = 414.33 MB
+		kdb_size_in_bytes: 707256320 bytes = 674.49 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 375.71 78.88 296.83
+		(all, sbt, kdt) max-I/Os per pattern-matching = 3426 599 2831
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 6
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+data-size: 296135874bytes = 282.42MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 21.00s
+Number of All points: 49355978
+Max points number of every kd-tree: 1265550
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+test-data-size: 296135874 bytes = 282.42 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 6
+test pattern len = 10
+the number of random test = 10000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 860114944 bytes = 820.27 MB
+		sbt_size_in_bytes: 289644544 bytes = 276.23 MB
+		kdb_size_in_bytes: 570470400 bytes = 544.04 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 466.71 73.57 393.14
+		(all, sbt, kdt) max-I/Os per pattern-matching = 4185 427 3758
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 8
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+data-size: 296135874bytes = 282.42MB
+Build-SBT-time: 15.00s
+Build-KDT-time: 16.00s
+Number of All points: 37016984
+Max points number of every kd-tree: 950654
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/dblp.xml
+test-data-size: 296135874 bytes = 282.42 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 8
+test pattern len = 10
+the number of random test = 10000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 723976192 bytes = 690.44 MB
+		sbt_size_in_bytes: 217235456 bytes = 207.17 MB
+		kdb_size_in_bytes: 506740736 bytes = 483.27 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 576.89 79.14 497.75
+		(all, sbt, kdt) max-I/Os per pattern-matching = 4952 348 4604

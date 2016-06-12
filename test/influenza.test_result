@@ -1,0 +1,232 @@
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+data-size: 154808555bytes = 147.64MB
+Build-SBT-time: 53.00s
+Build-KDT-time: 35.00s
+Number of All points: 77404277
+Max points number of every kd-tree: 8804919
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+test-data-size: 154808555 bytes = 147.64 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 2
+test pattern len = 10
+the number of random test = 10000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 1081143296 bytes = 1031.06 MB
+		sbt_size_in_bytes: 493854720 bytes = 470.98 MB
+		kdb_size_in_bytes: 587288576 bytes = 560.08 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 108.61 14.98 93.63
+		(all, sbt, kdt) max-I/Os per pattern-matching = 217 25 200
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 4
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+data-size: 154808555bytes = 147.64MB
+Build-SBT-time: 25.00s
+Build-KDT-time: 18.00s
+Number of All points: 38702138
+Max points number of every kd-tree: 4402174
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+test-data-size: 154808555 bytes = 147.64 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 4
+test pattern len = 10
+the number of random test = 10000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 609439744 bytes = 581.21 MB
+		sbt_size_in_bytes: 246931456 bytes = 235.49 MB
+		kdb_size_in_bytes: 362508288 bytes = 345.71 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 137.39 27.29 110.10
+		(all, sbt, kdt) max-I/Os per pattern-matching = 236 35 207
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 6
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+data-size: 154808555bytes = 147.64MB
+Build-SBT-time: 16.00s
+Build-KDT-time: 12.00s
+Number of All points: 25801425
+Max points number of every kd-tree: 2937942
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+test-data-size: 154808555 bytes = 147.64 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 6
+test pattern len = 10
+the number of random test = 10000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 453922816 bytes = 432.89 MB
+		sbt_size_in_bytes: 164626432 bytes = 157.00 MB
+		kdb_size_in_bytes: 289296384 bytes = 275.89 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 149.76 40.71 109.05
+		(all, sbt, kdt) max-I/Os per pattern-matching = 232 49 186
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 8
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+data-size: 154808555bytes = 147.64MB
+Build-SBT-time: 11.00s
+Build-KDT-time: 9.00s
+Number of All points: 19351069
+Max points number of every kd-tree: 2201398
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+test-data-size: 154808555 bytes = 147.64 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 8
+test pattern len = 10
+the number of random test = 10000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 376258560 bytes = 358.83 MB
+		sbt_size_in_bytes: 121020416 bytes = 115.41 MB
+		kdb_size_in_bytes: 255238144 bytes = 243.41 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 176.20 55.73 120.47
+		(all, sbt, kdt) max-I/Os per pattern-matching = 280 64 220
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+data-size: 154808555bytes = 147.64MB
+Build-SBT-time: 53.00s
+Build-KDT-time: 35.00s
+Number of All points: 77404277
+Max points number of every kd-tree: 8804919
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+test-data-size: 154808555 bytes = 147.64 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 2
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 1081143296 bytes = 1031.06 MB
+		sbt_size_in_bytes: 493854720 bytes = 470.98 MB
+		kdb_size_in_bytes: 587288576 bytes = 560.08 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 107.99 15.05 92.94
+		(all, sbt, kdt) max-I/Os per pattern-matching = 171 25 150
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 4
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+data-size: 154808555bytes = 147.64MB
+Build-SBT-time: 25.00s
+Build-KDT-time: 18.00s
+Number of All points: 38702138
+Max points number of every kd-tree: 4402174
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+test-data-size: 154808555 bytes = 147.64 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 4
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 609439744 bytes = 581.21 MB
+		sbt_size_in_bytes: 246931456 bytes = 235.49 MB
+		kdb_size_in_bytes: 362508288 bytes = 345.71 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 137.22 27.49 109.73
+		(all, sbt, kdt) max-I/Os per pattern-matching = 218 33 188
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 6
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+data-size: 154808555bytes = 147.64MB
+Build-SBT-time: 16.00s
+Build-KDT-time: 12.00s
+Number of All points: 25801425
+Max points number of every kd-tree: 2937942
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+test-data-size: 154808555 bytes = 147.64 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 6
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 453922816 bytes = 432.89 MB
+		sbt_size_in_bytes: 164626432 bytes = 157.00 MB
+		kdb_size_in_bytes: 289296384 bytes = 275.89 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 150.18 40.65 109.54
+		(all, sbt, kdt) max-I/Os per pattern-matching = 219 48 176
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 8
+data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+data-size: 154808555bytes = 147.64MB
+Build-SBT-time: 11.00s
+Build-KDT-time: 9.00s
+Number of All points: 19351069
+Max points number of every kd-tree: 2201398
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: /media/赵玉豪935163734@qq.com/GBWT-DATA/influenza
+test-data-size: 154808555 bytes = 147.64 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 8
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 376258560 bytes = 358.83 MB
+		sbt_size_in_bytes: 121020416 bytes = 115.41 MB
+		kdb_size_in_bytes: 255238144 bytes = 243.41 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 176.39 55.84 120.55
+		(all, sbt, kdt) max-I/Os per pattern-matching = 256 63 195

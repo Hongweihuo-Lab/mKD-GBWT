@@ -1,0 +1,12 @@
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/bible
+data-size: 4047392bytes = 3.86MB
+Build-SBT-time: 0.00s
+Build-KDT-time: 0.00s
+Number of All points: 2023695
+Max points number of every kd-tree: 74372
+

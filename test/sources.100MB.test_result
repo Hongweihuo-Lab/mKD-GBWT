@@ -1,0 +1,173 @@
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 12.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 1646572
+
+
+
+mKD-GBWT(pattern-matching): 
+test-data: ../data/sources.100MB
+test-data-size: 104857600 bytes = 100.00 MB
+B(disk-page-size)= 4096 bytes
+step(blocking-factor) = 2
+test pattern len = 10
+the number of random test = 1000
+------------test string B-tree, kd_tree and GBWT-------.
+
+		mkd-gbwt_size_in_bytes: 740311040 bytes = 706.02 MB
+		sbt_size_in_bytes: 340881408 bytes = 325.09 MB
+		kdb_size_in_bytes: 399429632 bytes = 380.93 MB
+------------test I/O counts-----.
+		(all, sbt, kdt) average IOs per pattern-matching = 42.09 19.51 22.58
+		(all, sbt, kdt) max-I/Os per pattern-matching = 1610 760 850
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 12.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 1646572
+
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 21.00s
+Build-KDT-time: 16.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 1646572
+
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 29.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 3293145
+
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 20.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 1646572
+
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 19.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 1646572
+
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 20.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 1646572
+
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 20.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 1646572
+
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 20.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 1646572
+
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 19.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 1646572
+
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 19.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 1646572
+
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 21.00s
+Build-KDT-time: 19.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 1646572
+
+
+
+MKD-GBWT(Build):
+B = 4096KB
+step(blocking-factor) = 2
+data: ../data/sources.100MB
+data-size: 104857600bytes = 100.00MB
+Build-SBT-time: 20.00s
+Build-KDT-time: 19.00s
+Number of All points: 52428799
+Max points number of every kd-tree: 1646572
+
