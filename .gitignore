@@ -1,0 +1,10 @@
+*.o
+*.txt
+gen_sa_lcp
+sam_sa_lcp
+build
+ave
+mygbwt
+raw_data/
+gmon.out
+*~
