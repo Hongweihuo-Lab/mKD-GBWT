@@ -22,19 +22,19 @@ The basis of mKD-GBWT is Geometric Burrows-Wheeler Transform. The biggest improv
 	$ make
 
 ## Generate index of data
-1. 	$ cd SAscan-???    
-	$ cd src   
-	$ ./sascan <data>   
+1. 	$ cd SAscan-???
+	$ cd src
+	$ ./sascan <data>
 
-2.	$ cd LCPscan-???    
-	$ cd build    
-	$ ./construct_lcp <data>    
+2.	$ cd LCPscan-???
+	$ cd build
+	$ ./construct_lcp <data>
 
-3.	$ cd mKD-GBWT    
-	$ ./gen_sa_lcp <data>   
+3.	$ cd mKD-GBWT
+	$ ./gen_sa_lcp <data>
 
-4.	$ cd mKD-GBWT    
-	$ ./sam_sa_lcp <data> <step>      
+4.	$ cd mKD-GBWT
+	$ ./sam_sa_lcp <data> <step>
 	$ ./build	<data>	<disk-page-size-in-bytes> <step>         
 
 ## Pattern-matching
