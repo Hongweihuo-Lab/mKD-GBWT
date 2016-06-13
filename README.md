@@ -73,4 +73,4 @@ The basis of mKD-GBWT is Geometric Burrows-Wheeler Transform. The biggest improv
 ### Paper
 mKD-GBWT is an implementation of the paper.
 
-Hongwei Huo, Yuhao Zhao, et al., Efficient external memory compressed indexes, submitted.
+Hongwei Huo, Yuhao Zhao, et al., Efficient external memory compressed indexes.
