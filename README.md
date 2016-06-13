@@ -68,7 +68,7 @@ The basis of mKD-GBWT is Geometric Burrows-Wheeler Transform. The biggest improv
 
 ## Contributors
 ### Code
-•	Yuhao Zhao
+•	Yuhao Zhao （赵玉豪）
 
 ### Paper
 mKD-GBWT is an implementation of the paper.
