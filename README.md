@@ -68,7 +68,7 @@ The basis of mKD-GBWT is Geometric Burrows-Wheeler Transform. The biggest improv
 
 ## Contributors
 ### Code
-•	Yuhao Zhao （赵玉豪）
+•	Yuhao Zhao
 
 ### Paper
 H. Huo, X. Chen, Y. Zhao, X. Zhu, and J. S. Vitter, Practical Succinct Text Indexes in External Memory, Proceedings of the IEEE Data Compression Conference (DCC), Snowbird, USA, March 27 - March 30, 2018, 217–226.
